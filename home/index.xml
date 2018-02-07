@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Pouya Samangouei</title>
+    <link>https://po0ya.github.io/home/</link>
+    <description>Recent content in Homes on Pouya Samangouei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 07 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://po0ya.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://po0ya.github.io/home/about/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://po0ya.github.io/home/about/</guid>
+      <description>Biography Pouya is a Ph.D. candidate at the University of Maryland, College Park. He is honored to be advised by Rama Chellappa to work on various computer vision and machine learning problems. He started by desiging efficient multi-task part based networks for face attribute detection and active authentication. Then he worked on making face detection efficient and accurate. Recently he has been playing with Generative Adversarial Networks for reconstructing lossy measurements and also to defend agains adversarial noises.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://po0ya.github.io/home/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://po0ya.github.io/home/news/</guid>
+      <description>Feb18: CSGAN code is released. Feb18: This paper claims wrongly that it breaks DefenseGAN. Jan18: Happy to see the ICLR18 oral paper AmbientGAN is very related to Algorithm 2 of our AAAI18 paper. Jan18: DefenseGAN is accepted in ICLR18. Jan18: Started my spring research internship at Butterfly Network with Nathan Silberman. Nov17: CSGAN is accepted at AAAI18. Nov17: Face-MagNet is accepted at WACV18. Sep17: SSH code is released. Aug17: Started my summer research internship at ISI.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://po0ya.github.io/home/contact/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://po0ya.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
