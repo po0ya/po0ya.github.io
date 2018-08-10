@@ -18,7 +18,7 @@
       <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://po0ya.github.io/home/about/</guid>
-      <description>Biography Pouya is a Ph.D. candidate at the University of Maryland, College Park. He is honored to be advised by Rama Chellappa to work on various computer vision and machine learning problems. He started by desiging efficient multi-task part based networks for face attribute detection and active authentication. Then he worked on making face detection efficient and accurate. Recently he has been playing with Generative Adversarial Networks for reconstructing lossy measurements and also to defend agains adversarial noises.</description>
+      <description>Biography Got my Ph.D. at the University of Maryland, College Park, under supervision of Rama Chellappa. I worked on various computer vision and machine learning problems while doing my Ph.D.: attribute detection for mobile phones, face detection, compressed sensing with GANs, defending deep networks using GANs, and explaining black-box classifiers with GANs. Now a machine learning scientist at Butterfly Network working with Nathan Silberman to make medical imaging intelligent, cheap, and accessible.</description>
     </item>
     
     <item>
@@ -27,9 +27,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://po0ya.github.io/home/news/</guid>
-      <description>Upcoming:
- PhD defense.  Past
- Apr18: Defense-GAN code is out! Good luck breaking it :) Mar18: Face-Magnet code is on github. Mar18: Face-MagNet paper is published in WACV18 and is on arxiv. Feb18: CSGAN code is released. Feb18: This paper claims wrongly that it breaks DefenseGAN. Jan18: Happy to see the ICLR18 oral paper AmbientGAN is very related to Algorithm 2 of our AAAI18 paper. Jan18: DefenseGAN is accepted in ICLR18.</description>
+      <description>Jul18: Officially Dr. Pouya Samangouei. Jul18: Explain-GAN is accepted in ECCV18. Apr18: Defense-GAN code is released. Mar18: Face-Magnet code is released. Mar18: Face-MagNet paper is published in WACV18 and is on arxiv. Feb18: CSGAN code is released. Feb18: This paper claims wrongly that it breaks DefenseGAN. Jan18: Happy to see the ICLR18 oral paper AmbientGAN is very related to Algorithm 2 of our AAAI18 paper. Jan18: DefenseGAN is accepted in ICLR18.</description>
     </item>
     
     <item>
